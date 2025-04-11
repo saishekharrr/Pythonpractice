@@ -1,6 +1,5 @@
-# Simple To-Do List App
 
-tasks = []  # empty list to store tasks
+tasks = []
 
 while True:
     print("\n--- To-Do List Menu ---")

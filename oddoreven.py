@@ -12,9 +12,9 @@ def main():
         if user_input.isdigit():
             number = int(user_input)
             if number % 2 == 0:
-                print(f"{number} is Even ✅")
+                print(f"{number} is Even ")
             else:
-                print(f"{number} is Odd 🔢")
+                print(f"{number} is Odd ")
         else:
             print("Please enter a valid number!")
 
